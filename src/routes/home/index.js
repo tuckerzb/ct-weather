@@ -111,9 +111,9 @@ const Home = () => {
 	
 	return (<div class={style.container}>
 		<div class={style.headerBlock}>
-		<h1>Welcome to Long Trail Weather</h1>
-		<p>The <a href='https://www.greenmountainclub.org/the-long-trail/'>Long Trail</a> is a 272 mile path along the main ridge of Vermont's Green Mountains between the Massachusetts and Canadian borders. </p>
-		<p>To get the 7-day National Weather Service forecast, click "Get My Location" or select the closest shelter to you from the dropdown. Sometimes we are unable to communicate with the NWS servers for a forecast region, if you receive an error message, please try again later.</p>
+		<h1>Welcome to Colorado Trail Weather</h1>
+		<p>The <a href='https://coloradotrail.org/'>Colorado Trail</a> is a ~500 mile path through the Rocky Mountains between Denver and Durango. </p>
+		<p>To get the 7-day National Weather Service forecast, click "Get My Location" or select the closest trail landmark to you from the dropdown. Sometimes we are unable to communicate with the NWS servers for a forecast region, if you receive an error message, please try again later.</p>
 		{/* <p><em>Have a location on the trail that you'd like to see added to the landmarks dropdown?</em> Please suggest it using this form: <Link href="/suggest">Suggest a Landmark</Link></p> */}
 		<p><strong>Disclaimer:</strong> Please note that the information is provided "as-is" from the National Weather Service and no warranty is made as to its accuracy.</p>
 		<p><em>Find this website useful? Please considering supporting the Developer. <Link href="/about">Learn How!</Link></em></p>

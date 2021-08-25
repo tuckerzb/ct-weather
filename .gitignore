@@ -2,3 +2,5 @@
 /build
 /*.log
 /backend/.env
+.vscode
+/tests
