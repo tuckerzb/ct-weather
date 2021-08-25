@@ -6,10 +6,10 @@ const About = () => (
 	<div class={style.container}>
 		<div class={style.headerBlock}>
 			<h1>About</h1>
-			<p>This project was inspired by <a href='https://www.atweather.org/' target='_blank' rel="noopener noreferrer">ATWeather.org</a> - an incredible resource for the AT and PCT hiking communities developed by Pat Jones. In fact, the first 100 miles of the Long Trail are shared with the AT!</p>
-			<p>Long Trail Weather is created and maintained by <a href='https://zachtucker.dev' target='_blank' rel="noopener noreferrer">Zach "Free Fall" Tucker</a> (Tahoe Rim Trail 2019, AT NOBO 2020). Please use the <Link href='/contact'>Contact</Link> page for comments, suggestions, and concerns.</p>
+			<p>This project was inspired by <a href='https://www.atweather.org/' target='_blank' rel="noopener noreferrer">ATWeather.org</a> - an incredible resource for the AT and PCT hiking communities developed by Pat Jones.</p>
+			<p>Colorado Trail Weather is created and maintained by <a href='https://zachtucker.dev' target='_blank' rel="noopener noreferrer">Zach "Free Fall" Tucker</a> (Tahoe Rim Trail 2019, AT NOBO 2020). Please use the <Link href='/contact'>Contact</Link> page for comments, suggestions, and concerns.</p>
 			<h2>Support</h2>
-			<p>If you find Long Trail Weather useful, please consider supporting the project. There are a few ways to help, like telling
+			<p>If you find Colorado Trail Weather useful, please consider supporting the project. There are a few ways to help, like telling
 				your friends about this website or donating to cover the cost of hosting ($7/month).
 			</p>
 			<p>
